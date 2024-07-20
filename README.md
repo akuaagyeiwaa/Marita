@@ -3,12 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ethiopia Unbound</title>
-        <author>J. E. Casely Hayford</author>
+        <title>Marita or the Folly of Love</title>
+        <author>A. Native</author>
       </titleStmt>
       <publicationStmt>
-        <publisher>Publisher Name</publisher>
-        <date>Publication Date</date>
+        <publisher>The Western Echo</publisher>
+        <date>188-1888</date>
       </publicationStmt>
       <sourceDesc>
         <p>Details about the source of the text.</p>

@@ -18,20 +18,11 @@
   <text>
     <body>
       <div type="chapter" n="1">
-        <head>Chapter 1: The Beginning</head>
-        <p rend="justify">When Akua arrived at the village, she noticed that everyone was busy preparing for the festival.</p>
-        <p rend="justify">The preparations for the festival were extensive and involved everyone in the village.</p>
-      </div>
-      <div type="chapter" n="2">
-        <head>Chapter 2: The Festival</head>
-        <p rend="justify">The festival was a grand event that brought together people from all over the region.</p>
-        <p rend="justify">The celebration included music, dance, and feasting.</p>
-         
-
-CHAPTER I
-BONSOE PENIN’S INTERVIEW WITH QUAIBU
-UPON THE SUBJECT OF HIS IMPENDING MARRIAGE
-1.	Western Echo, 30tfi January 1886 
+        <head>BONSOE PENIN’S INTERVIEW WITH QUAIBU</head>
+	<head>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</head>
+ 	<head>Western Echo, 30 January 1886</head>
+       
+     
 <p rend="justify">‘So my dear friend, yon have gone and done it; I am surprised and astonished at you, I certainly gave you more credit for a good share of common sense, and sufficient knowledge of the world. Is it possible, and can it be true that it was yours the banns, that was published in the chapel yesterday?’ This was uttered by a man of about forty five years, strong but slenderly built, and of middle stature; complexion sallow red, his eyes were keen but yet seldom look you twice in the face, and his features regular. His manners were grave, but a more jovial and sincere friend never lived. In his youth he had the advantage of the best English education; besides being a good Latin, Greek and Hebrew scholar. Mr Bonsoe Penin, the name of this gentleman, was not a bachelor, yet he was married, he had several wives; two he had living with him in his own house; the rest lived in their own houses, and it is strange to say that he lived happily with them all. </p>
 
 <p>Mr Quaibu, the hero of this tale, was a man who had just entered his fortieth year short and slenderly built, healthy and strong. His features were not different from any of his countrymen’s - real type of a negro. He also had the advantage of English education, moved in the highest society, both European and native, and at the time that this tale was commenced he was filling a post -which was worth to him several hundred pounds sterling a year.</p>
@@ -55,6 +46,7 @@ UPON THE SUBJECT OF HIS IMPENDING MARRIAGE
 <p>‘Boy! boy!’ called Mr Quaibu to his servant; ‘bring another bottle of Mose(le. I must say Bonsoe Penin, if your “learned self,” instead of apparel, had shown such a great aptitude for drinking to-day I would certainly be glad. See there is not a drop of wine left in the bottle and we are still dry. You will open the second bottle, and after we have had our first shot you will indite a letter to His Honour to postpone the hearing of your case until tomorrow; after which we will have time to talk freely and uninterruptedly.’</p>
 
 <p>Bonsoe Penin here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together.</p>
+</div>
 
 2.	Western Echo, I0h February 1886 
 We must now leave these two gentlemen, and introduce the heroine of this tale to the reader. Miss Wissah, at the time that this tale commenced was a woman of about four and twenty years old; in stature she was short, but proportionably well built; she was neither stout nor thin, although she had a tendency towards stoutness. Her features were not very regular but extremely pleasing; her gait or steps were faultless, and she has a way of carrying herself among her own class — the uneducated women — that she is everywhere considered to be equal if not superior to any of her companions. It is only in company of educated ladies that she exhibits a consciousness of inferiority. Coupled with these natural advantages she has a strong and well regulated mind which wanted only education to have made her perfect. In fact she was a woman gifted by nature to adorn any (XP society if she had been cultured. Was it to be wondered at that Mr Quaibu became fascinated by her even in spite of her want of education, and the occasional burst of temper which she exhibited. Love is blind, and in the case of Mr Quaibu as well as Miss Wissah’s, Cupid never played a severer trick upon two fools. 

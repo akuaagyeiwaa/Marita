@@ -49,7 +49,7 @@
 
 <p><persName>Bonsoe Penin</persName> here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together.</p>
   
-     </div>
+</div>
 
 <head>Western Echo, I0h February 1886</head>
 

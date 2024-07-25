@@ -105,6 +105,7 @@
 </div>
  
 <div type="CHAPTER" n="III">
+<head><p></p>CHAPTER III</p></head>
 	<head>Western Echo, 6th March 1886</head>
 
 <p>‘Leave me alone to myself,’ replied Mr Bonsoe Penin helping himself to a glass of Moselle. ‘His Reverence and lady are cousins of mine, and they know me too well to take umbrage at anything that I choose to say to them. How are you Miss Wissah?’ continued he, addressing himself to the lady. ‘It is sometime since I saw you. So you have been taken in hand by my dear cousins, and are being led by them to the place where you should go; and poor Quaibu too has ' cast behind him the world and all its vanity and is ready to follow you wither- soever my godly relatives will choose to lead you. Poor guileless girl! and poor Quaibu’s helpless.’</p>
@@ -133,9 +134,10 @@
 
 
 <div type="CHAPTER" N="IV"> 
-    <head>THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH</head> 
+<head><p>CHAPTER IV</p></head>
+    <head><p>THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH</p></head> 
 	<head>Western Echo, 17th March 1886</head>
-</div>
+
 <p>In the last chapter we mentioned that Wissah called over to see Mr & Mrs Pritzia and also mentioned somewhere that she had been of late in the habit of going there frequently. Mr Pritzia, as has been intimated before, was a - Wesleyan minister, a zealous man of the old school. He was one of the trained men Revd. Mr Fitzmaurice brought up in the ministry. If he was deficient in education and could barely read and write and with difficulty speak the English language, he was nevertheless a very good man, and able speaker, was successful in gaining souls in his ministrations, and moreover for a native he was| liberal in his religious tenets. As he made no ostentatious displays of religion in conversation, as some of his cloth did; and knew when and how to introduce religious matter in conversation and when to talk about other subjects, Mr Quaibu found great delight in the Rev. gentleman’s company, and from mere acquaintance they became very good friends. It was his habit to call upon Mr Quaibu frequently and on these occasions religion formed the principle topic of conversation, although other subjects were taken in hand too. As were the men so also became the women, and Mrs Pritzia, and Miss Wissah became also intimate. </p>
 
 <p>One evening as the Revd. gentleman and his spouse were chatting together in their house, Mr Quaibu and several friends, among whom were some Europeans, passed by. These jovial friends had been enjoying themselves during the day, going from house to house, and at the time they passed the minister’s house they were each and all, ‘three sheets in the wind.’</p>

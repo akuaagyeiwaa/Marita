@@ -19,7 +19,7 @@
     <body>
       <div type="chapter" n="1">
         <head>BONSOE PENIN’S INTERVIEW WITH QUAIBU</head>
-		<head><p>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</p></head>
+		<head>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</head>
  			<head><p>Western Echo, 30 January 1886</p></head>
 
 

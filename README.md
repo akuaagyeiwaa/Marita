@@ -48,7 +48,7 @@
 <p>‘Boy! boy!’ called <persName>Mr Quaibu</persName> to his servant; ‘bring another bottle of Mose(le. I must say Bonsoe Penin, if your “learned self,” instead of apparel, had shown such a great aptitude for drinking to-day I would certainly be glad. See there is not a drop of wine left in the bottle and we are still dry. You will open the second bottle, and after we have had our first shot you will indite a letter to His Honour to postpone the hearing of your case until tomorrow; after which we will have time to talk freely and uninterruptedly.’</p>
 
 <p><persName>Bonsoe Penin</persName> here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together.</p>
-  </div>
+  
 </div>
 
 
@@ -62,10 +62,14 @@
 
 <p>If his obstinacy to be a class member was the cause of the change of con- duct in Miss Wissah, Mr <persName>Quaibu</persName> had cause to rejoice when he enrolled his name as a member of the Wesleyan Society; for the same spirit of contentment, love and happiness that ruled in their domestic hearth before Miss Wissah became a member returned and they lived happily together again. But the two ministers had not finished with them yet. <persName>Quaibu</persName> must give to his wife a ring through a minister, before God and in the open chapel; in fine they must enter into the ‘Holy state of matrimony’ before they could be admitted as full members of the society. In for a penny, in for a pound. The lady was willing, her people were willing; <persName>Quaibu</persName> had to consult nobody, and there was ‘no just cause or impediment’ why he also should not be willing; for had he not lived for several years happily together with Miss Wissah? Before God, <persName>Mr Quaibu </persName>conscientiously considered Miss Wissah legally his wife although no minister had married them. He had not the least doubt that God, the searcher of hearts considered them as man and wife; and if it only wanted the mere putting on of a ring on the part of the woman to make their marriage legal in the eyes of men, well, he must conform to it: and the announcement of their banns was accordingly published in the Sunday previous to the day Bonsoe Pennin called on his friend Mr Quaibu in the great trepidation and astonishment mentioned at the opening of this chapter.</p>
 
+ </div>
+</div>
+
+
 
 <div type="CHAPTER" n="II">
     <head>Western Echo, 24th February 1886</head>	
-</div>
+
 3.	
 <p> ‘Where is <persName>Wissah</persName>?’ inquired Bonsoe Penin of his friend. I seldom see her lately; she used to call very often at my house to see her friends; but it seems to me that she avoids the place now. What can be the matter, <persName>Quaibu</persName>?’ </p>
 
@@ -77,9 +81,10 @@
 <p> This news, true as it was, did not a little startle <persName>Mr Bonsoe Penin</persName>. For some minutes he could not open his mouth, but sat down in the utmost astonishment, looking at his friend. At last ne said:</p>
 
 <p>‘Words fail me to express my sentiments; allow me to congratulate you. I must candidly say, however, that I would never, under the penalty of decapitation, sacrifice my happiness; all the gold of Ophir [sic] 13 could not induce me to sell my liberty and happiness thus. What madness! what fetich could they have played on you so as to take such a step! Well, I am blessed, if I could make out the motives which could have prompted you to take a step of which I am sure, knowing what you are, you will soon repent. Chacun a son gout. I will promise you this much Quaibu; if you succeed in keeping your position as al class member, for three months, telling your real feelings to a frail man like yourself, and who is in no way better, I mean your class leader, 1 will also become a member. No, no, you can’t remain with them even a month I am sure. And this matrimonial project of yours, have you seriously thought over it? Have you thought of the consequences? Have you studied Miss Wissah so well . as she was, as she is; and as she will be in the state to which you are going to  raise her? Certain it is that she has been to you, what any good woman could A well be. chaste, prudent, loving, and obedient. But are you sure that Miss Wissah, as a country-married woman will be the same Miss Wissah. as a church married lady, both of you living in enchained wedlock? Have you taken into"</p>
+</div>
 
  <div type="CHAPTER" n="II">
- </div>(check)
+ (check)
 <p>Deep consideration the similarity of feelings, or of mind, of education and training; the kind of love which binds two together, whether in prosperity or in adversity; and of the entire dependence on the part of the woman upon the man, which alone could make the new life into which you are drifting yourself and the lady happy?. Pause, ponder, and consider well the serious step you are about taking before its too late. These are not mere words prompted by a spirit of egotism; “once bit, twice shy” and experience teaches knowledge. The flames about which you are, moth-like fluttering, will certainly burn you, as it burnt me to my cost. As a young man, when I first came out from England, I was induced to marry in the church, the daughter of one of the highest gentlemen in the country. But oh! What a most miserable life we led I took the bull by the horns, and broke the ring that united us. I followed the fashion of my country, and I am as you find me, happy. Forgive the liberty 1 have taken in talking so freely to you. If I have gone beyond the limits of friendship know that it is pure nature that prompted me.’</p>
 
 
@@ -94,10 +99,12 @@
 <p>‘Which of the parsons?’ inquired Mr Bonsoe Penin.</p>
 
 <p>‘Mr Pritzia,’ replied Quaibu; then, continuing, he thus cautioned his friend. ‘Now old fellow, we must be careful what we say in the presence of this man. The subject which has been occupying our time is too serious, and at the same time delicate for us to resume it: so let us drop it, at all events for the present; for I know your temper and it will do no good but a great deal of harm to parties concerned.’ </p>
+  </div>
+</div>
  
 <div type="CHAPTER" n="III">
 	<head>Western Echo, 6th March 1886</head>
-</div>
+
 <p>‘Leave me alone to myself,’ replied Mr Bonsoe Penin helping himself to a glass of Moselle. ‘His Reverence and lady are cousins of mine, and they know me too well to take umbrage at anything that I choose to say to them. How are you Miss Wissah?’ continued he, addressing himself to the lady. ‘It is sometime since I saw you. So you have been taken in hand by my dear cousins, and are being led by them to the place where you should go; and poor Quaibu too has ' cast behind him the world and all its vanity and is ready to follow you wither- soever my godly relatives will choose to lead you. Poor guileless girl! and poor Quaibu’s helpless.’</p>
 
 <p> ‘Why do you call Mr Quaibu poor, Bonsoe Penin?’ Mr Pritzia asked. ‘Is it because he was elected to forsake the world, the flesh and the devil, and join The people of God that he becomes poor?16 Know that he is richer by far now than what he could ever have been before he enlisted under the banner of the Lord. I wish I could get you also to enlist. What a bright example you too would set, and I would fain ask, nay beseech, you to follow this worthy step so nobly taken by your friend.’</p>

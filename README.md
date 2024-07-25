@@ -11,7 +11,7 @@
         <date>188-1888</date>
       </publicationStmt>
       <sourceDesc>
-        <p>Details about the source of the text.</p>
+        <p>Lending Library:CRL.</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -19,8 +19,8 @@
     <body>
       <div type="chapter" n="1">
         <head>BONSOE PENIN’S INTERVIEW WITH QUAIBU</head>
-		<head>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</head>
- 			<head>Western Echo, 30 January 1886</head>
+		<head><p>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</p></head>
+ 			<head><p>Western Echo, 30 January 1886</p></head>
 
 
        

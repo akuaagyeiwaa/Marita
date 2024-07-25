@@ -41,7 +41,7 @@
 
 <p>‘Pooh, man your shirt wont fit me, it will choke me. I will none of your babyish shirts, especially in court and to-day too when I have to defend a poor murderer and have to do all I can to save the poor man’s innocent neck from coming into close proximity with the hangman’s noose.’ </p>
 
-<p>‘No, no, Quaibu, I would rather play truant to-day from Court and endure his Honour’s reprimand tomorrow than lose my client’s cause, which I would certainly do were I to go to Court to-day with your shirt on.’ </p>
+<p>‘No, no, <psersName>Quaibu</psersName>, I would rather play truant to-day from Court and endure his Honour’s reprimand tomorrow than lose my client’s cause, which I would certainly do were I to go to Court to-day with your shirt on.’ </p>
 
 <p>‘Boy! boy!’ called <persName>Mr Quaibu</persName> to his servant; ‘bring another bottle of Mose(le. I must say Bonsoe Penin, if your “learned self,” instead of apparel, had shown such a great aptitude for drinking to-day I would certainly be glad. See there is not a drop of wine left in the bottle and we are still dry. You will open the second bottle, and after we have had our first shot you will indite a letter to His Honour to postpone the hearing of your case until tomorrow; after which we will have time to talk freely and uninterruptedly.’</p>
 

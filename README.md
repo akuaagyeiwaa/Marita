@@ -49,7 +49,8 @@
 <p><persName>Bonsoe Penin</persName> here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together.</p>
 </div>
 
-<head>Western Echo, I0h February 1886 
+<head>Western Echo, I0h February 1886</head>
+
 <p>We must now leave these two gentlemen, and introduce the heroine of this tale to the reader. Miss Wissah, at the time that this tale commenced was a woman of about four and twenty years old; in stature she was short, but proportionably well built; she was neither stout nor thin, although she had a tendency towards stoutness. Her features were not very regular but extremely pleasing; her gait or steps were faultless, and she has a way of carrying herself among her own class — the uneducated women — that she is everywhere considered to be equal if not superior to any of her companions. It is only in company of educated ladies that she exhibits a consciousness of inferiority. Coupled with these natural advantages she has a strong and well regulated mind which wanted only education to have made her perfect. In fact she was a woman gifted by nature to adorn any (XP society if she had been cultured. Was it to be wondered at that <persName>Mr Quaibu</persName> became fascinated by her even in spite of her want of education, and the occasional burst of temper which she exhibited. Love is blind, and in the case of <persName>Mr Quaibu</persName> as well as Miss Wissah’s, Cupid never played a severer trick upon two fools.</p>
 
 <p><persName>Mr Quaibu</persName> and <persName>Miss Wissah</persName> had lived as man and wife for more than eight years, enjoying all the, blessings of married life. Mr Quaibu showed the same amount of respect for his lady as he would have shown had their marriage been solemnized in the Church. He stuck to her alone and would on no account take or keep any other woman. Every lady respected her as if a minister had joined them together in holy wedlock. <persName>Miss Wissah</persName> on her part honoured and above all obeyed <persName>Mr Quaibu</persName> in every thing and at all times. She felt great interest in her good man’s affairs, which she in every way considered as her own. In fact, no two persons that have been united together by the church could have lived more happily together than those two who were only married by country marriage, a marriage looked down upon as debasing and degrading.</p>
@@ -74,7 +75,8 @@
 
 <p>‘Words fail me to express my sentiments; allow me to congratulate you. I must candidly say, however, that I would never, under the penalty of decapitation, sacrifice my happiness; all the gold of Ophir [sic] 13 could not induce me to sell my liberty and happiness thus. What madness! what fetich could they have played on you so as to take such a step! Well, I am blessed, if I could make out the motives which could have prompted you to take a step of which I am sure, knowing what you are, you will soon repent. Chacun a son gout. I will promise you this much Quaibu; if you succeed in keeping your position as al class member, for three months, telling your real feelings to a frail man like yourself, and who is in no way better, I mean your class leader, 1 will also become a member. No, no, you can’t remain with them even a month I am sure. And this matrimonial project of yours, have you seriously thought over it? Have you thought of the consequences? Have you studied Miss Wissah so well . as she was, as she is; and as she will be in the state to which you are going to  raise her? Certain it is that she has been to you, what any good woman could A well be. chaste, prudent, loving, and obedient. But are you sure that Miss Wissah, as a country-married woman will be the same Miss Wissah. as a church married lady, both of you living in enchained wedlock? Have you taken into"</p>
 
- CHAPTER II (check)
+ <div type="CHAPTER" n="II">
+ </div>(check)
 <p>Deep consideration the similarity of feelings, or of mind, of education and training; the kind of love which binds two together, whether in prosperity or in adversity; and of the entire dependence on the part of the woman upon the man, which alone could make the new life into which you are drifting yourself and the lady happy?. Pause, ponder, and consider well the serious step you are about taking before its too late. These are not mere words prompted by a spirit of egotism; “once bit, twice shy” and experience teaches knowledge. The flames about which you are, moth-like fluttering, will certainly burn you, as it burnt me to my cost. As a young man, when I first came out from England, I was induced to marry in the church, the daughter of one of the highest gentlemen in the country. But oh! What a most miserable life we led I took the bull by the horns, and broke the ring that united us. I followed the fashion of my country, and I am as you find me, happy. Forgive the liberty 1 have taken in talking so freely to you. If I have gone beyond the limits of friendship know that it is pure nature that prompted me.’</p>
 
 
@@ -90,8 +92,9 @@
 
 <p>‘Mr Pritzia,’ replied Quaibu; then, continuing, he thus cautioned his friend. ‘Now old fellow, we must be careful what we say in the presence of this man. The subject which has been occupying our time is too serious, and at the same time delicate for us to resume it: so let us drop it, at all events for the present; for I know your temper and it will do no good but a great deal of harm to parties concerned.’ </p>
  
-CHAPTER III 
-4.	Western Echo, 6th March 1886 
+<div type="CHAPTER" n="III">
+	<head>Western Echo, 6th March 1886</head>
+</div>
 <p>‘Leave me alone to myself,’ replied Mr Bonsoe Penin helping himself to a glass of Moselle. ‘His Reverence and lady are cousins of mine, and they know me too well to take umbrage at anything that I choose to say to them. How are you Miss Wissah?’ continued he, addressing himself to the lady. ‘It is sometime since I saw you. So you have been taken in hand by my dear cousins, and are being led by them to the place where you should go; and poor Quaibu too has ' cast behind him the world and all its vanity and is ready to follow you wither- soever my godly relatives will choose to lead you. Poor guileless girl! and poor Quaibu’s helpless.’</p>
 
 <p> ‘Why do you call Mr Quaibu poor, Bonsoe Penin?’ Mr Pritzia asked. ‘Is it because he was elected to forsake the world, the flesh and the devil, and join The people of God that he becomes poor?16 Know that he is richer by far now than what he could ever have been before he enlisted under the banner of the Lord. I wish I could get you also to enlist. What a bright example you too would set, and I would fain ask, nay beseech, you to follow this worthy step so nobly taken by your friend.’</p>
@@ -117,9 +120,10 @@ CHAPTER III
 <p> ‘I really cannot say,’ the Revd gentleman replied. ‘But it looks to me and to all right minded men, that it is better and more respectable to have but one wife, married in the church. Is it not so mentioned in Holy Writ? Why is it only to-day that you talk about your wives? Have we ever found fault with either your- self or them to your knowledge?’ ‘You have certainly never found fault with me and with them, as you say, to my knowledge,’ replied Bonsoe Penin hotly; ‘and never will if I can help myself. But’, continued he rather complacently, ‘look at our mutual friend Quaibu and his amiable wife; is it because you find fault with them or that they have lived unhappily together, or that they were not looked upon by European gentlemen as well as native and even by men of “your cloth” as respectable in their native or country married state, that they are now made to exchange sub- stance - real happiness - for a shadow?’. </p>
 
 
-CHAFER IV 
-THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH 
-5.	Western Echo, 17th March 1886
+<div type="CHAPTER" N="IV"> 
+    <head>THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH</head> 
+	<head>Western Echo, 17th March 1886</head>
+</div>
 <p>In the last chapter we mentioned that Wissah called over to see Mr & Mrs Pritzia and also mentioned somewhere that she had been of late in the habit of going there frequently. Mr Pritzia, as has been intimated before, was a - Wesleyan minister, a zealous man of the old school. He was one of the trained men Revd. Mr Fitzmaurice brought up in the ministry. If he was deficient in education and could barely read and write and with difficulty speak the English language, he was nevertheless a very good man, and able speaker, was successful in gaining souls in his ministrations, and moreover for a native he was| liberal in his religious tenets. As he made no ostentatious displays of religion in conversation, as some of his cloth did; and knew when and how to introduce religious matter in conversation and when to talk about other subjects, Mr Quaibu found great delight in the Rev. gentleman’s company, and from mere acquaintance they became very good friends. It was his habit to call upon Mr Quaibu frequently and on these occasions religion formed the principle topic of conversation, although other subjects were taken in hand too. As were the men so also became the women, and Mrs Pritzia, and Miss Wissah became also intimate. </p>
 
 <p>One evening as the Revd. gentleman and his spouse were chatting together in their house, Mr Quaibu and several friends, among whom were some Europeans, passed by. These jovial friends had been enjoying themselves during the day, going from house to house, and at the time they passed the minister’s house they were each and all, ‘three sheets in the wind.’</p>
@@ -132,7 +136,8 @@ THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH
 
 <p>Obedient to her lord's command Mrs Pritzia the next day repaired to Mr Quaibu's house, and seeing Miss Wissah disengaged had some chat with her and when she was leaving managed to get her to accompany her. Mr Pritzia seeing them quietly went to his bedroom unperceived by the ladies and there waited till he found an opportune time to come arrayed in such abillment as became his position when he wanted to covert souls.</p>
 
-6.	Western Echo, 24th March 1886
+<head>Western Echo, 24th March 1886</head>
+
 <p>'I saw Mr Quaibu with several friends going about a great deal the worse for liquor.' This was a feeler put by Mrs Pritzia to Miss Wissah who judging by the way for him. absence of her husband thought and rightly too, that he wanted her to prepare</p>
 
 <p>‘They were all on the spree the whole day yesterday,' replied Miss Wissah. 'Mr Cookson invited them all to dinner the previous night and kept it up to a late hour. Mr Quaibu did not come home till one o'clock this morning. Between 8 and 9 o'clock this morning before he had scarcely rested Mr Bonsoe Penin and his brother Bonsoe Coomah called over to take 'a refresher,' as they called it, with him; and they continued at it for some time before they left. Quaibu had just finished breakfast and as the steamer was expected he was busy writing his business letters when all the friends that were invited to Mr Cockson’s dinner came in and spent a good portion of the day with him, of course drinking. There was no staying at home for him after that and they all went out together. He came home late in the night “screwed”21 and it is no wonder that you did not see him when you came in. He went to bed immediately after breakfast I must not stay out long as he may probably want me when he wakes up.’</p>
@@ -149,8 +154,10 @@ THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH
 
 <p>Mr Pritzia did not lose a word of what passed between the two ladies, and at this stage, he thought it was high time to join them. He accosted Miss Wissah in a most complacent manner; in which spirit she also returned the compliment. Mr Pritzia thought when he joined the ladies that there was no chance for him to succeed in his disinterested work of converting Miss Wissah, through whom he thought he could get at Mr Quaibu upon whose conversion he had principally set his heart. </p>
 
-CHAPTER V 
-7.	Western Echo, 10th April 1886 – 
+<div type="CHAPTER" n="V" 
+	<head>Western Echo, 10th April 1886</div>
+</div>
+
 <p>‘I have been rather busy in my study,’ began he when he joined them, up a sermon for Sunday, a most insinuating air, ‘I ‘getting By the bye,’ continued he, at the same time assuming am glad to see that you go to chapel occasionally, and to observe that you are a good and attentive listener. I have observed you often whilst preaching, and it did my heart good to see you so piously bent. May I ask, were you in the habit of going to chapel before you came to this place? I should like very much to know that.’ </p>
 
 <p>‘Very seldom Mr Pritzia,’ she replied. I had no wish.’ ‘That augurs well since now your attendance here is more frequent. Do you find the sermons interesting?’ </p>
@@ -192,12 +199,14 @@ CHAPTER V
 
 <p>'And you ladies generally take the part of other men against your own husbands, ministers' wives not excepted,' returned Mr Pritzia. 'Would you despise your hand because you have inadvertently plunged it into something loathsome? Would you not rather wash it clean in lavender water and bring it to its former state? Well, is it because one woman, who is as much a creature of God as you are, happened not to be married according to Church rites that she is to be despised by other women because they are so married? Should we not rather persuade her to enter into Church marriage and thereby save her soul? If you don't despise your hand, because it has touched an unclean thing, why should you despise a woman because she happened to live in a state of concubinage? Is that a spirit of charity? Don’t let me hear any more of such unchristian expressions from you again; and I hope you will assist me in my endeavours to convert these two precious souls, by continuing on the same terms of friendship with Miss Wissah.’</p>
 
-	Western Echo, 24th April 1886 
+<head>Western Echo, 24th April 1886 </head>
+
 <p>After this wholesome admonition from her husband Mrs Pritzia kept quiet for some time with her head bent down seemingly in deep cogitation; she then went to her bedroom where we will leave her to ponder over her husband’s words. </p>
 
-CHAPTER VI 
-REVD, MR HARDY AND QUAIBU 
-9.	Western Echo, 24th April 1886 (continued)
+<div type="CHAPTER" n="VI"> 
+	<head>REVD, MR HARDY AND QUAIBU</head> 
+	  <head>Western Echo, 24th April 1886 (continued)			</head>	
+</div>
  <p>A few months subsequent to the proceedings related in the chapter immediately following [read: preceding, SN] this; and after Miss Wissah had been fairly admitted a member on trial in the. Wesleyan body for she could not be admitted into full membership since she was living, as was considered, in a state of concubinage, the Revd. Mr Hardy called to see Mr Quaibu, and demanded to have some talk with him in private. This being granted the missionary commenced: </p>
  
 <p>‘You really must excuse the liberty I am going to take with you. Don’t be offended at what I am going to say to you; but consider it as a word prompted by a spirit of friendship, and an ardent desire for your real happiness.’</p>
@@ -219,7 +228,8 @@ Pritzia himself can tell you this. It is experience and not ignorance of the thi
 "There is no fear of that dear Hardy. I have too great a respect for myself to be guilty of such ill-breeding. As an institution among many that the great founder of the sect - Mr Wesley-brought about,' continued Quaibu, class meeting deserves to be ranked among the best; but it, like many schemes originally established with the best of intentions has been frightfully abused. Now as to the objections - and there are many - that I have against it. First, I really can not find it in my conscience to confess my sins to a man who is by nature as frail and as sinful as myself; and to confess them too before several other persons. For instance, I am required at the meeting to tell my feelings and experience during the week. Well, suppose during the week I committed adultery; rabbed a neighbour of a very valuable property; or accused a man, whom I hated, of a crime of which he was innocent, whereby his good character or reputation was ruined. Who, but a mad man would go to the meeting, before a whole lot of people and tell his leader at their hearing the feelings which prompted him during the week to commit such crimes; and with the knowledge too that some of the parties present might be a friend, a relative, or the very party or parties against whom the crime was committed? Is it not beyond the pale of human nature to do so? My dear friend if you can prove to me and to my satisfaction that this is possible and that it is within those things which a human being can accomplish I must submit even if it is against my conviction. </p>
 
 
-10.	Western Echo, 8th May 1886
+<head>Western Echo, 8th May 1886</head>
+
 <p>‘That, what you have been describing is against human nature I must agree with you' remarked Mr Hardy; 'and therefore it is that members are not required to confess the sins or crimes they may have committed during the week. That would be preposterous.</p>
 
 <p>'What then are they required to do at the meeting' demanded Quaibu?</p>
@@ -234,9 +244,10 @@ Pritzia himself can tell you this. It is experience and not ignorance of the thi
 
 
 
- CHAPTER VII 
-QUAIBU AND MISS WISSAH 
-11.	Western Echo, 21st May 1886
+ <div type="CHAPTER" n="VII"> 
+	<head>QUAIBU AND MISS WISSAH </head>
+		<head>Western Echo, 21st May 1886</head>
+ </div>
 <p> We recorded at the conclusion of the last chapter that Mr Quaibu went to his wife’s apartment after the minister had left and that he met her adjusting her hair. He waited until she had finished, then got her to dismiss the girl who had been assisting her with her hair, and in a most lively and interesting manner opened up a conversation. </p>
 
 <p>‘My dear girl, you really must be uncommonly pleased with me to-day. Now tell the truth.’ ‘Why should I be satisfied Quaibu and with —’ </p>

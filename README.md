@@ -18,7 +18,7 @@
   <text>
     <body>
         <div type="chapter" n="1">
-	<head>CHAPTER 1</head>
+	<head><p>CHAPTER 1</p></head>
         <head>BONSOE PENIN’S INTERVIEW WITH QUAIBU</head>
 		<head>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</head>
  			<head><p>Western Echo, 30 January 1886</p></head>

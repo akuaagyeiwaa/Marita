@@ -169,8 +169,10 @@
 <p>Mr Pritzia did not lose a word of what passed between the two ladies, and at this stage, he thought it was high time to join them. He accosted Miss Wissah in a most complacent manner; in which spirit she also returned the compliment. Mr Pritzia thought when he joined the ladies that there was no chance for him to succeed in his disinterested work of converting Miss Wissah, through whom he thought he could get at Mr Quaibu upon whose conversion he had principally set his heart. </p>
 
 <div type="CHAPTER" n="V" 
-	<head>Western Echo, 10th April 1886</div>
-</div>
+<head><p>CHAPTER V</p></head>
+	<head>Western Echo, 10th April 1886</head>
+	</div>
+
 
 <p>‘I have been rather busy in my study,’ began he when he joined them, up a sermon for Sunday, a most insinuating air, ‘I ‘getting By the bye,’ continued he, at the same time assuming am glad to see that you go to chapel occasionally, and to observe that you are a good and attentive listener. I have observed you often whilst preaching, and it did my heart good to see you so piously bent. May I ask, were you in the habit of going to chapel before you came to this place? I should like very much to know that.’ </p>
 

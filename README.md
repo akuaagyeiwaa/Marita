@@ -21,7 +21,8 @@
         <head>BONSOE PENIN’S INTERVIEW WITH QUAIBU</head>
 	<head>UPON THE SUBJECT OF HIS IMPENDING MARRIAGE</head>
  	<head>Western Echo, 30 January 1886</head>
-      </div>	
+
+
        
      
 <p rend="justify">‘So my dear friend, yon have gone and done it; I am surprised and astonished at you, I certainly gave you more credit for a good share of common sense, and sufficient knowledge of the world. Is it possible, and can it be true that it was yours the banns, that was published in the chapel yesterday?’ This was uttered by a man of about forty five years, strong but slenderly built, and of middle stature; complexion sallow red, his eyes were keen but yet seldom look you twice in the face, and his features regular. His manners were grave, but a more jovial and sincere friend never lived. In his youth he had the advantage of the best English education; besides being a good Latin, Greek and Hebrew scholar. Mr Bonsoe Penin, the name of this gentleman, was not a bachelor, yet he was married, he had several wives; two he had living with him in his own house; the rest lived in their own houses, and it is strange to say that he lived happily with them all. </p>
@@ -47,7 +48,9 @@
 <p>‘Boy! boy!’ called <persName>Mr Quaibu</persName> to his servant; ‘bring another bottle of Mose(le. I must say Bonsoe Penin, if your “learned self,” instead of apparel, had shown such a great aptitude for drinking to-day I would certainly be glad. See there is not a drop of wine left in the bottle and we are still dry. You will open the second bottle, and after we have had our first shot you will indite a letter to His Honour to postpone the hearing of your case until tomorrow; after which we will have time to talk freely and uninterruptedly.’</p>
 
 <p><persName>Bonsoe Penin</persName> here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together.</p>
+  </div>
 </div>
+
 
 <head>Western Echo, I0h February 1886</head>
 
